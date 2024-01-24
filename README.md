@@ -8,5 +8,5 @@
 # @ Topic 2: 2D RGB/Gray image analysis
          Similar to topic 1, using different processing techniques to analyse 2D image. 
 
-         Perform convolutional neural network to classify the image. 
+         Perform convolutional neural networks to classify the image. 
    
